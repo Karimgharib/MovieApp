@@ -1,2 +1,2 @@
 # MovieApp
-react native movie app
+react native movie and series app
